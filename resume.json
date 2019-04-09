@@ -4,7 +4,7 @@
       "label": "Developer, Designer",
       "picture": "https://secure.gravatar.com/avatar/8467b459fa717a7bd10f4ada1daaedbe",
       "email": "abby.gottlich@gmail.com",
-      "website": "http://www.abbygottlich.com/",
+      "website": "http://www.abbygottlich.dev/",
       "summary": "Developer-Designer Hybrid, Seeking a Job that Allows Me to do Both",
       "phone": "972.948.0392",
       "location": {
@@ -14,8 +14,8 @@
       "profiles": [
         {
           "network": "PDF Resume",
-          "username": "Kevin Colten",
-          "url": "http://abbygottlich.github.io/abby-gottlich-resume.pdf"
+          "username": "Abby Gottlich",
+          "url": "https://github.com/abbygottlich/resume"
         },
         {
           "network": "GitHub",
@@ -24,131 +24,114 @@
         },
         {
           "network": "LinkedIn",
-          "username": "kevincolten",
-          "url": "https://www.linkedin.com/in/kevincolten/"
-        },
-        {
-          "network": "Skype",
-          "username": "kevincolten"
+          "username": "abbygottlich",
+          "url": "https://www.linkedin.com/in/abbygottlich/"
         }
       ]
     },
     "work": [
       {
-        "company": "Austin Coding Academy",
-        "position": "Chief Technology Officer / Lead Instructor",
-        "website": "https://austincodingacademy.com",
-        "startDate": "2015-08-01",
-        "summary": "In charge of all things technical, authored curriculums, and taught web development courses to adult learners.",
+        "company": "Mutual Mobile",
+        "position": "Web Developer Intern",
+        "website": "https://mutualmobile.com/",
+        "startDate": "Oct. 2018 - Feb. 2019",
+        "summary": "Worked directly with senior level developers and UX Designers to program a multi-faceted web application, completing tasks to meet client goals.",
         "highlights": [
-          "Responsible for entire company software infrastructure",
-          "Created, maintained, and led interns and contributors on Campus Manager, our custom Learning Management System",
-          "Authored curriculums on HTML, CSS, JavaScript, Node.js, MongoDB",
-          "Developed workbooks with CI integration for linting",
-          "Maintained web presences for all four locations Austin, San Antonio, Houston, and Dallas",
-          "Built reporting infrastructure that combined data from multiple sources: Payments, CRM, LMS, etc. Ask me about YoSQL!",
-          "Implemented automation for web hooks, status checks, user events, reports, deployments, tests, etc.",
-          "Implementing/analyzing tracking services such as Google Analytics/Tag Manager, Facebook Pixel, click heatmaps, etc",
-          "SEO Optimization"
+          "Used HTML5, CSS3, JavaScript, and AngularJS",
+          "In charge of all styling for new user flow built from scratch",
+          "Practiced an agile work environment through sprint planning"
         ]
       },
       {
-        "company": "SkillsEngine",
-        "position": "Senior Software Engineer",
-        "website": "https://skillsengine.com",
-        "startDate": "2017-10-16",
-        "endDate": "2019-03-13",
-        "summary": "Develop web service around skill predicting and aligning machine-learning driven service",
+        "company": "Oddly Natural",
+        "position": "Director of Graphic Design",
+        "website": "https://www.liveoddlynatural.com/",
+        "startDate": "Sept. 2017 - Oct. 2018",
+        "summary": "Developed brand identities for new and existing companies.",
         "highlights": [
-          "Work with modern web stack: React + Redux, Ruby on Rails",
-          "Agile environment and collaborative coding",
-          "Full Stack development, worked on all corners of the code base, services, and integrations"
+          "Designed logos and websites",
+          "Worked hand-in-hand with the developer to create an effective online presence to meet client goals",
+          "Enhanced the online presence of clients in the form of social media graphics, utilizing Photoshop and Illustrator",
+          "Successfully promoted client events through poster and billboard design, utilizing InDesign, and incorporating hand-drawn illustrations"
         ]
       },
       {
-        "company": "Continuum Analytics",
-        "position": "Software Engineer",
-        "website": "https://continuum.io",
-        "startDate": "2015-06-08",
-        "endDate": "2017-01-01",
-        "summary": "Bokeh contributor, an open-source python driven graph generator. Implemented and designed client-specific projects and solutions.",
+        "company": "Fort Stockton Independent School District",
+        "position": "Webmaster",
+        "website": "https://www.fsisd.net/",
+        "startDate": "Nov. 2016 - Aug. 2017",
+        "summary": "Successfully transformed a dated, disorganized website into an intuitive, modern Content Management System.",
         "highlights": [
-          "Worked on https://anaconda.org, a packaging and environment manager repository",
-          "Contributed to open-source packages such as Bokeh (https://bokeh.pydata.org)",
-          "Fast-paced full-stack client-specific projects with modern web development stacks"
+          "Utilized information architecture, card sorting, and communication skills",
+          "Trained all teachers and staff members to edit/manage their own personal webpage",
+          "Engaged the community in the District’s strengthened online social media presence by photographing all school events"
         ]
       },
       {
-        "company": "Generation Ready",
-        "position": "Lead Software Engineer + Architect",
-        "website": "https://generationready.com",
-        "startDate": "2013-11-01",
-        "endDate": "2015-06-05",
-        "summary": "Designed, built, and maintained in-house internet software. Headed small team of web developers and quality assurance technicians.",
+        "company": "MasonBaronet",
+        "position": "Creative Intern",
+        "website": "http://masonbaronet.com/",
+        "startDate": "May 2015 - Aug. 2015",
+        "summary": "Obtained design skills and an understanding of creative direction by designing special collateral for office functions.",
         "highlights": [
-          "Flourished in a fast-paced, agile environment",
-          "Developed deep PHP and Javascript skills",
-          "Learned and implemented new technologies often"
+          "Used Illustrator, Photoshop, and InDesign",
+          "Gained skills in communication and collaboration through daily team meetings and regularly reporting to the Creative Director"
         ]
       }
     ],
     "projects": [
       {
-        "name": "Campus Manager",
-        "description": "Learning Management System and Course Management Tool",
+        "name": "Feast Finder",
+        "description": "Random Restaurant Generator",
         "highlights": [
-          "Learning Management System and Course Management Tool",
           "Creator and current maintainer",
-          "Over 700 Users",
-          "Supports web hooks with Zapier",
-          "Powerful reporting engine",
-          "Built with MongoDB, Node.js, Express.js, Passport.js, Backbone.js, and React.js"
+          "Built with React.js, Express.js, MongoDB, and Mongoose",
+          "Utilizes authentication and React-Redux"
         ],
         "keywords": [
-          "MongoDB",
-          "Node",
+          "React",
           "Express",
-          "Passport",
-          "Backbone",
-          "React"
+          "MongoDB",
+          "Mongoose",
+          "React-Redux",
+          "Authentication"
         ],
-        "url": "https://github.com/AustinCodingAcademy/campus-manager",
+        "url": "https://github.com/abbygottlich/feast-finder-app",
         "roles": [
           "Creator",
           "Maintainer"
         ],
-        "entity": "Austin Coding Academy",
         "type": "Web Application"
       },
       {
-        "name": "AdFree.Life",
+        "name": "",
         "highlights": [
-          "Adblocking as a Service",
-          "Sets up a pre-configured Pi-Hole on a dedicated VPS",
-          "Uses cron jobs to generate trials",
-          "Hit #11 on Hacker News! (https://news.ycombinator.com/item?id=14910683)",
-          "Registration currently disabled while licensing is figured out"
+          "",
+          "",
+          "",
+          "",
+          ""
         ],
         "keywords": [],
-        "url": "https://ad-free-life.herokuapp.com/",
-        "roles": ["Owner"],
-        "entity": "Startup",
-        "type": "SAAS"
+        "url": "",
+        "roles": [""],
+        "entity": "",
+        "type": ""
       },
       {
-        "name": "YoSQL",
+        "name": "",
         "highlights": [
-          "Converts NoSQL databases and JSON collections into SQL tables",
-          "Creator and current maintainer",
-          "Integrates with Zapier for web hook functionality",
-          "Save and share queries",
-          "API to integrate with any SPA frontend"
+          "",
+          "",
+          "",
+          "",
+          ""
         ],
         "keywords": [],
-        "url": "https://github.com/kevincolten/yosql",
-        "roles": ["Creator"],
-        "entity": "Personal",
-        "type": "Library"
+        "url": "",
+        "roles": [""],
+        "entity": "",
+        "type": ""
       }
     ],
     "skills": [
@@ -157,14 +140,7 @@
         "keywords":
         [
           "JavaScript/Node.js",
-          "Ruby",
-          "PHP",
-          "Python",
-          "SQL",
-          "NoSQL",
-          "Bash",
-          "Linux",
-          "C#"
+          "AngularJS"
         ]
       },
       {
@@ -173,32 +149,20 @@
           "HTML/CSS",
           "JavaScript/jQuery",
           "Express/Node.js",
-          "Backbone/React + Redux",
-          "Rails",
-          "Laravel",
-          "Bootstrap/Foundation/Material",
+          "React + Redux",
+          "Express",
+          "Mongoose",
           "MongoDB",
-          "MySQL/Postgres/Sqlite",
           "Authorization/Authentication",
-          "Responsive/Mobile Development",
-          "Bokeh/Bokeh Server",
-          "Grunt/Gulp/Webpack",
-          "SASS/LESS/UglifyJS"
+          "Responsive/Mobile Development"
         ]
       },
       {
         "name": "Technologies",
         "keywords": [
-          "Continuous Integration",
-          "Automated Deployment",
-          "Automated Testing",
-          "AWS/Heroku/DigitalOcean",
-          "Heroku/Build Packs",
+          "Heroku",
           "Git/GitHub",
-          "Grunt/Gulp/WebPack",
-          "REST APIs",
-          "Automated SSL Certificates",
-          "Data Visualization"
+          "REST APIs"
         ]
       }
     ]
