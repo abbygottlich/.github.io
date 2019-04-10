@@ -34,7 +34,8 @@
         "company": "Mutual Mobile",
         "position": "Web Developer Intern",
         "website": "https://mutualmobile.com/",
-        "startDate": "Oct. 2018 - Feb. 2019",
+        "startDate": "2018-10-23",
+        "endDate": "2019-02-28",
         "summary": "Worked directly with senior level developers and UX Designers to program a multi-faceted web application, completing tasks to meet client goals.",
         "highlights": [
           "Used HTML5, CSS3, JavaScript, and AngularJS",
@@ -46,7 +47,8 @@
         "company": "Oddly Natural",
         "position": "Director of Graphic Design",
         "website": "https://www.liveoddlynatural.com/",
-        "startDate": "Sept. 2017 - Oct. 2018",
+        "startDate": "2017-09-02",
+        "endDate": "2018-10-20",
         "summary": "Developed brand identities for new and existing companies.",
         "highlights": [
           "Designed logos and websites",
@@ -59,7 +61,8 @@
         "company": "Fort Stockton Independent School District",
         "position": "Webmaster",
         "website": "https://www.fsisd.net/",
-        "startDate": "Nov. 2016 - Aug. 2017",
+        "startDate": "2016-11-09",
+        "endDate": "2017-08-22",
         "summary": "Successfully transformed a dated, disorganized website into an intuitive, modern Content Management System.",
         "highlights": [
           "Utilized information architecture, card sorting, and communication skills",
@@ -71,7 +74,8 @@
         "company": "MasonBaronet",
         "position": "Creative Intern",
         "website": "http://masonbaronet.com/",
-        "startDate": "May 2015 - Aug. 2015",
+        "startDate": "2015-05-10",
+        "endDate": "2015-08-20",
         "summary": "Obtained design skills and an understanding of creative direction by designing special collateral for office functions.",
         "highlights": [
           "Used Illustrator, Photoshop, and InDesign",
